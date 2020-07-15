@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  array = new.Array
+  array = new.Array[4]
   
 end
 
